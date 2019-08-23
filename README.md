@@ -1,2 +1,4 @@
 # FRecognition
-MATLAB based face recognition.
+Face Recognition based attendence system based on MATLAB.
+
+
